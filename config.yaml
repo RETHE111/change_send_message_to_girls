@@ -8,10 +8,10 @@ CITY: "洛阳"
 BIRTHDAY:
   - "03-06"
 
-APP_ID: "wx56ee245290dc2dc0"
-APP_SECRET: "7175230290edea36606fddff2d6ef85f"
+APP_ID: "id"
+APP_SECRET: "secret"
 
 USER_ID: 
-  - "oXKys58QTS2kWBG8hAs_nmCG5jqs"
-  - "oXKys52G0hnh94UlhPG9DXXp31jI"
-TEMPLATE_ID: "HdPaqo8yv1AC1I2bXb7wDyxJxLr3WQrhg0LPi-JoHKI	"
+  - "id"
+  - "id"
+TEMPLATE_ID: "id"
