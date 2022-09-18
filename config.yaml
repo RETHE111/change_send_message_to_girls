@@ -2,11 +2,11 @@
 
 DAILY_TIME: "9:00" # 每日定时发送时间。该时间为系统时间，如果当前系统时间不为北京时间需要自行进行换算
 
-START_DATE: "2021-12-03" # 纪念日
-CITY: "洛阳"
+START_DATE: "2020-05-20" # 纪念日
+CITY: "北京"
 
 BIRTHDAY:
-  - "03-06"
+  - "01-01"
 
 APP_ID: "id"
 APP_SECRET: "secret"
